@@ -1,0 +1,3 @@
+year,ndvi_medio,ndvi_maximo,ndvi_minimo,ndvi_desvio,ano,produtividade_real_tons_ha,area_plantada_ha,producao_total_tons,fonte,regiao,coordenadas_lat,coordenadas_lon,ndvi_amplitude,coef_variacao_ndvi
+2021,0.5467,0.7997,0.2857,0.1763,2021,30.5,2850,86925,IBGE-LSPA,Mogi Mirim/SP,-22.4197,-46.9197,0.514,0.32248033656484365
+2022,0.5521,0.7855,0.2989,0.1751,2022,32.0,2900,92800,IBGE-LSPA,Mogi Mirim/SP,-22.4197,-46.9197,0.4866,0.31715268973012134
