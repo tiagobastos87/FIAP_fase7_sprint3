@@ -76,15 +76,14 @@ Este projeto valida um modelo de Inteligência Artificial para previsão da prod
   - Dispersão NDVI x Produtividade real (com linha de tendência)
   - Comparativo de produtividade por região e safra
 
-### Exemplos de Gráficos
 
 #### Dispersão NDVI x Produtividade Real
 
-![Dispersão NDVI x Produtividade](assets/grafico_dispersao_ndvi_produtividade.png)
+![Dispersão NDVI x Produtividade](assets/Gráfico de dispersão (scatter plot) com linha de tendência.png)
 
 #### Produtividade Real por Região e Safra
 
-![Comparativo Região e Safra](assets/grafico_comparativo_regiao_safra.png)
+![Comparativo Região e Safra](assets/Gráficos comparativos por região e safra.png)
 
 ---
 
