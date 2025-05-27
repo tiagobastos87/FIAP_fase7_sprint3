@@ -30,7 +30,7 @@
 
 - <a href="https://www.linkedin.com/in/profandregodoi/">André Godoi</a>
 
-## 📜 Descrição
+
 
 ## Índice
 
@@ -45,10 +45,9 @@
 
 ---
 
-## Descrição do Projeto
+## 📜 Descrição
 
-Este projeto tem como objetivo validar um modelo de Inteligência Artificial para previsão da produtividade do café, utilizando o NDVI como variável preditora. O estudo foi realizado com dados reais da região de Mogi Mirim (SP), abrangendo desde a coleta de dados históricos, tratamento e análise estatística, até a geração de gráficos e discussão crítica dos resultados.
-
+Este projeto valida um modelo de Inteligência Artificial para previsão da produtividade do café, utilizando o NDVI como variável preditora. O estudo foi realizado com dados reais da região de Mogi Mirim (SP), abrangendo desde a coleta de dados históricos, tratamento e análise estatística, até a geração de gráficos e discussão crítica dos resultados.
 ---
 
 ## Etapa 1 – Coleta de Dados Históricos
@@ -93,35 +92,29 @@ Este projeto tem como objetivo validar um modelo de Inteligência Artificial par
 
 - **O NDVI foi um bom preditor?**  
   Sim, apresentou correlação forte com a produtividade real.
+
 - **Melhor desempenho:**  
   Talhões com manejo homogêneo e imagens NDVI de boa qualidade.
+
 - **Pior desempenho:**  
   Talhões afetados por seca, pragas, doenças ou imagens de baixa qualidade.
+
 - **Fatores externos:**  
   Eventos climáticos, pragas/doenças, qualidade das imagens NDVI.
+
 - **Sugestões de melhoria:**  
   Incluir variáveis climáticas, dados de manejo, diferentes fases fenológicas e ampliar a base de dados.
+
 - **Limitações:**  
   Tamanho da amostra, qualidade das bases públicas, simplicidade dos modelos estatísticos.
 
-## **Dependências diretas do projeto:**
-
-- Python 3.x
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
+---
 
 ## Como Executar
 
 1. Instale as dependências:
-
 2. Execute o notebook ou script principal:
-
-3. Os gráficos e o relatório em PDF serão gerados automaticamente na pasta do projeto.
-
-
----
+3. 3. Os gráficos será gerados automaticamente na pasta:
 
 ## Tecnologias Utilizadas
 
@@ -131,6 +124,8 @@ Este projeto tem como objetivo validar um modelo de Inteligência Artificial par
 - Seaborn
 - Scikit-learn
 - FPDF
+
+---
 
 ## Referências
 
@@ -148,7 +143,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 - <b>assets</b>: aqui estão os arquivos relacionados a elementos não-estruturados deste repositório, como imagens.
 - <b>document</b>: não utilizada nesse projeto
 - <b>scripts</b>: não utilizada nesse projeto
-- <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto.
+- <b>src</b>: Todos os código fonte criado para o desenvolvimento do projeto.
 - <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
 ## 🗃 Histórico de lançamentos
